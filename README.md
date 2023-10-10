@@ -44,6 +44,6 @@ In conclusion, this report provides valuable insights into hospitalization progr
 
 ## Link to interactive report
 
-[Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmI2ZTE0OTgtMzNlMC00NGZjLTk4MDctNWZiYTNkN2U0ZWI1IiwidCI6Ijg3Zjc6Mzk2LWUyMTctNDljNS04MWI5LWY5ZDAyZDk1MDQ5MyJ9)
+[Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmI2ZTE0OTgtMzNlMC00NGZjLTk4MDctNWZiYTNkN2U0ZWI1IiwidCI6Ijg3Zjc2Mzk2LWUyMTctNDljNS04MWI5LWY5ZDAyZDk1MDQ1MyJ9)
 
 
